@@ -1,0 +1,6 @@
+# config.yml
+reload-message: "&7[&bFlyCraft&7] &aFlyCraft configuration reloaded."
+
+enable-message: "&7[&bFlyCraft&7] &aFly mode enabled."
+
+disable-message: "&7[&bFlyCraft&7] &cFly mode disabled."
